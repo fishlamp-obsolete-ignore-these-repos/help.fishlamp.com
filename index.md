@@ -25,5 +25,6 @@ This is the help site for the FishLamp SDK.
 - [PackMule](/packmule.html)
 - [Whittle](/whittle.html)
 
+- [Don't click this](http://r33b.net)
 
 
